@@ -40,7 +40,6 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 https://giphy.com/gifs/Pw4ZItRdrakF81KDNc
-https://media1.giphy.com/media/Pw4ZItRdrakF81KDNc/giphy.gif?cid=790b76113013789a2ead8ebca1440163fc49149a8476cc4e&rid=giphy.gif&ct=g
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
